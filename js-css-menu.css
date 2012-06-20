@@ -111,7 +111,7 @@
 .js-css-menu > li div ul:not(:first-child) {
 	margin-left: 20px;
 }
-.js-css-menu > li:hover div {
+.js-css-menu > li:hover div, .js-css-menu > li:focus div {
 	color: #fefefe;
 	background: #b00000;
 	padding: 10px 15px;
