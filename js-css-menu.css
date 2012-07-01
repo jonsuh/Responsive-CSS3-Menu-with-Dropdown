@@ -43,7 +43,6 @@
 	background-image: -webkit-gradient(linear, left top, left bottom, from(#dd0000) 20%, to(#aa0000));
 	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='$to', EndColorStr='$from');
 	padding: 10px 15px;
-	text-decoration: none;
 	display: block;
 }
 .js-css-menu > li:hover > a {
